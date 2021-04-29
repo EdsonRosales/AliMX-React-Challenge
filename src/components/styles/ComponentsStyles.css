@@ -1,0 +1,48 @@
+.divParent {
+  
+    background-color: #F6F7F9;
+}
+
+.divQuestion {
+    background-color: #dbdddfbd;
+    border-radius: 10px;
+}
+
+.resultBox{
+    background-color: plum;
+    min-height: 80px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+  
+}
+
+.resultBoxGrey{
+    background-color: #dbdddfbd;
+    min-height: 80px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.input {
+    background-color: #dbdddfbd;
+    border: 2px solid darkgray;
+    width: "100%";
+    padding: 15px;
+}
+
+.button {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+    background-color: deeppink;
+    color: white;
+}
+
+.img {
+    border-radius: 30px;
+    padding: 10px; 
+    border: 3px solid plum; 
+    width: 75px;
+    height: 100px;
+    align-content: space-between;
+}
